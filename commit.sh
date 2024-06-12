@@ -2,7 +2,7 @@
 
 cd /home/yerim/mygarden
 
-git add .
+git add aa.txt
 git commit -m "Automated commit"
 
 git push origin master
